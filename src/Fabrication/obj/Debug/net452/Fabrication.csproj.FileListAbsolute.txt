@@ -1,0 +1,8 @@
+C:\Users\harve\source\repos\Fabrication\Fabrication\bin\Debug\net452\Fabrication.dll
+C:\Users\harve\source\repos\Fabrication\Fabrication\bin\Debug\net452\Fabrication.pdb
+C:\Users\harve\source\repos\Fabrication\Fabrication\obj\Debug\net452\Fabrication.csproj.AssemblyReference.cache
+C:\Users\harve\source\repos\Fabrication\Fabrication\obj\Debug\net452\Fabrication.AssemblyInfoInputs.cache
+C:\Users\harve\source\repos\Fabrication\Fabrication\obj\Debug\net452\Fabrication.AssemblyInfo.cs
+C:\Users\harve\source\repos\Fabrication\Fabrication\obj\Debug\net452\Fabrication.csproj.CoreCompileInputs.cache
+C:\Users\harve\source\repos\Fabrication\Fabrication\obj\Debug\net452\Fabrication.dll
+C:\Users\harve\source\repos\Fabrication\Fabrication\obj\Debug\net452\Fabrication.pdb

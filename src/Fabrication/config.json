@@ -1,0 +1,4 @@
+{
+  "Time": 5, // time in seconds to wait before giving player item
+  "Stack": 1 // amount of random item to give to player
+}
